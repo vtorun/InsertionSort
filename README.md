@@ -7,6 +7,7 @@ https://www.kodluyoruz.org Insertion Sort
 - [2,6,16,22,18,27]
 - [2,6,16,18,22,27]
 
+- 3)Average case - Worst case - Best case
 # 4)Average case
 
 # [7,3,5,8,2,9,4,15,6]
